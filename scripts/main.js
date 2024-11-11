@@ -43,7 +43,7 @@ function showSpeakerDetails(element) {
       behavior: 'smooth'
     });
   }
-  // click events
+  // click events ....
   
   leftButton.addEventListener('click', () => scrollCarousel(-1));
   rightButton.addEventListener('click', () => scrollCarousel(1));
